@@ -101,7 +101,7 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>3.0.2</version>
                 <configuration>
-                    <outputDirectory>C:\Users\Angel\Desktop\Minecraft\Servers\Ardua\plugins</outputDirectory>
+                    <outputDirectory>C:\Users\Angel\Desktop\Minecraft\Servers\plugins</outputDirectory>
                 </configuration>
             </plugin>
             <plugin>
