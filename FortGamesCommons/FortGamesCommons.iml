@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Maven: sleekkit:com.sllibrary.software:1.12.2-R0.1-SNAPSHOT">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/Sleekkit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.spigotmc:spigot:1.12.2-R0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.sllibrary:bukkit:1.3-b6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: joda-time:joda-time:2.9.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.mortennobel:java-image-scaling:0.8.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.jhlabs:filters:2.0.235" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: ninja.leaping.configurate:configurate-core:3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: ninja.leaping.configurate:configurate-gson:3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.code.gson:gson:2.8.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: ninja.leaping.configurate:configurate-hocon:3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.typesafe:config:1.3.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: ninja.leaping.configurate:configurate-json:3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: ninja.leaping.configurate:configurate-yaml:3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.yaml:snakeyaml:1.18" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.flowpowered:flow-math:1.0.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.sllibrary:profiles:1.3-b6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.sllibrary:sql:1.3-b6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.16.16" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: worldedit:com.sk89q.worldedit:bukkit-18.05.25-4049014-1138-20.1.8">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/FastAsyncWorldEdit-bukkit-18.05.25-4049014-1138-20.1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
